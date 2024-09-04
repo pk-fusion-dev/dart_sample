@@ -1,0 +1,192 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Alfredo", "last": "Vega" },
+      "location": {
+        "street": { "number": 4399, "name": "Calle de La Democracia" },
+        "city": "Elche",
+        "state": "Comunidad Valenciana",
+        "country": "Spain",
+        "postcode": 14704,
+        "coordinates": { "latitude": "-32.8026", "longitude": "-146.2018" },
+        "timezone": {
+          "offset": "+7:00",
+          "description": "Bangkok, Hanoi, Jakarta"
+        }
+      },
+      "email": "alfredo.vega@example.com",
+      "login": {
+        "uuid": "1fd78380-f118-42f8-aaac-e4b0199580d8",
+        "username": "redrabbit910",
+        "password": "pepper1",
+        "salt": "0eeGi7Fx",
+        "md5": "5d790ee18dc5efe3c6e1b9f8f3acf810",
+        "sha1": "28d2a8b6cf670bd8559c4399686fb7ad45933d26",
+        "sha256": "149f90a56bf5005e39edcdba764643f6b6367a9d41fbed09e4899b8b7e428d8b"
+      },
+      "dob": { "date": "1961-04-12T03:52:53.197Z", "age": 62 },
+      "registered": { "date": "2016-08-16T17:21:42.593Z", "age": 7 },
+      "phone": "915-635-085",
+      "cell": "676-342-939",
+      "id": { "name": "DNI", "value": "16497800-Q" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/1.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+      },
+      "nat": "ES"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Meik", "last": "Frings" },
+      "location": {
+        "street": { "number": 6036, "name": "Jahnstraße" },
+        "city": "Sehnde",
+        "state": "Sachsen-Anhalt",
+        "country": "Germany",
+        "postcode": 46372,
+        "coordinates": { "latitude": "51.5566", "longitude": "55.4701" },
+        "timezone": {
+          "offset": "+6:00",
+          "description": "Almaty, Dhaka, Colombo"
+        }
+      },
+      "email": "meik.frings@example.com",
+      "login": {
+        "uuid": "674f5e2a-7fcd-400a-b0a3-c97cd6f78bb1",
+        "username": "tinyswan359",
+        "password": "qiang",
+        "salt": "9CGTThLJ",
+        "md5": "43af6d2001cba1378640b09edf88d027",
+        "sha1": "a32f4e45c12984aab691c555b0b58adef4d8229b",
+        "sha256": "452d3d0ba78910ed64b363c822f308f50fc99d7a979ecfb11c4317de40ac4c16"
+      },
+      "dob": { "date": "1974-03-01T12:32:52.848Z", "age": 50 },
+      "registered": { "date": "2009-05-09T21:53:45.574Z", "age": 14 },
+      "phone": "0147-2971071",
+      "cell": "0174-3135746",
+      "id": { "name": "SVNR", "value": "89 010374 F 116" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/61.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/61.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/61.jpg"
+      },
+      "nat": "DE"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Ahmet", "last": "Balcı" },
+      "location": {
+        "street": { "number": 1303, "name": "Anafartalar Cd" },
+        "city": "Bursa",
+        "state": "Edirne",
+        "country": "Turkey",
+        "postcode": 88848,
+        "coordinates": { "latitude": "18.1334", "longitude": "25.4330" },
+        "timezone": {
+          "offset": "+10:00",
+          "description": "Eastern Australia, Guam, Vladivostok"
+        }
+      },
+      "email": "ahmet.balci@example.com",
+      "login": {
+        "uuid": "bed48592-7b3f-4b20-8266-168b6af3ae70",
+        "username": "goldenswan745",
+        "password": "spiderman",
+        "salt": "BfJ9jSjT",
+        "md5": "899dd1371d44422eb0c5f41e0cc633f5",
+        "sha1": "9f4ba498e2bb6b55ba2b56b17187a3724deb1235",
+        "sha256": "fc64d6d32dc35830ba99c2fcafb2603c2280c710873143a87d469c189e810831"
+      },
+      "dob": { "date": "1991-10-13T12:35:08.005Z", "age": 32 },
+      "registered": { "date": "2020-02-27T07:27:19.551Z", "age": 4 },
+      "phone": "(474)-318-9492",
+      "cell": "(196)-819-0484",
+      "id": { "name": "", "value": null },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/50.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/50.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/50.jpg"
+      },
+      "nat": "TR"
+    },
+    {
+      "gender": "male",
+      "name": { "title": "Mr", "first": "Adam", "last": "Wilson" },
+      "location": {
+        "street": { "number": 9788, "name": "Oak St" },
+        "city": "Southampton",
+        "state": "Nunavut",
+        "country": "Canada",
+        "postcode": "X3R 6C6",
+        "coordinates": { "latitude": "-55.0445", "longitude": "159.1853" },
+        "timezone": {
+          "offset": "+9:00",
+          "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+        }
+      },
+      "email": "adam.wilson@example.com",
+      "login": {
+        "uuid": "2134e719-f2b2-4bd5-9bde-86c752de7e33",
+        "username": "bluedog953",
+        "password": "zack",
+        "salt": "3L7YoaHK",
+        "md5": "7e5396778fbcf43877b3737476b581d9",
+        "sha1": "e0ea1307f6e0701f2b372b8f970d1e073bd218ca",
+        "sha256": "f61762547b0a3313accc743800b718fad61c9913b13a85b65eb9f7f1880ea469"
+      },
+      "dob": { "date": "1994-05-16T05:03:27.685Z", "age": 29 },
+      "registered": { "date": "2008-03-20T10:00:52.107Z", "age": 16 },
+      "phone": "G67 A41-1817",
+      "cell": "K34 K37-4699",
+      "id": { "name": "SIN", "value": "377374996" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/4.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/4.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
+      },
+      "nat": "CA"
+    },
+    {
+      "gender": "female",
+      "name": { "title": "Miss", "first": "Kayla", "last": "Brown" },
+      "location": {
+        "street": { "number": 8706, "name": "Anzac Parade" },
+        "city": "Christchurch",
+        "state": "Waikato",
+        "country": "New Zealand",
+        "postcode": 38329,
+        "coordinates": { "latitude": "73.9512", "longitude": "39.6691" },
+        "timezone": { "offset": "-3:30", "description": "Newfoundland" }
+      },
+      "email": "kayla.brown@example.com",
+      "login": {
+        "uuid": "d2f06d71-10fe-4fac-9ee9-fd3089f32fe4",
+        "username": "orangefrog298",
+        "password": "blazer",
+        "salt": "UU6anWkL",
+        "md5": "a8640857ac79a0c3975ec824a0de90a5",
+        "sha1": "7bccde10da55d9f0b74b3311084a9c5f82c05a51",
+        "sha256": "bc811d10310ea3d030f67bdc676c388767223c986e20841e03c5714dbfe6c447"
+      },
+      "dob": { "date": "1979-04-13T22:36:53.305Z", "age": 44 },
+      "registered": { "date": "2011-08-17T11:23:39.411Z", "age": 12 },
+      "phone": "(044)-353-4622",
+      "cell": "(541)-463-5364",
+      "id": { "name": "", "value": null },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/77.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/77.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/77.jpg"
+      },
+      "nat": "NZ"
+    }
+  ],
+  "info": {
+    "seed": "ff732a3dd68e1659",
+    "results": 5,
+    "page": 1,
+    "version": "1.4"
+  }
+}
